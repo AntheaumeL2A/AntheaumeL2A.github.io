@@ -15,7 +15,6 @@ header {
 }
 
 #conteneur { display:flex;
-  height : 60%;
   margin : auto;
 }
 
