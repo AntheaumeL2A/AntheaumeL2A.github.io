@@ -70,5 +70,6 @@ body {
 
 footer {
   height : 10%;
-  margine : auto;
+  padding-left: 70%;
+  margin : auto;
 }
