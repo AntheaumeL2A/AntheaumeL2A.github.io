@@ -1,6 +1,6 @@
 
 html {
-  font-size: 10px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+  font-size: 12px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
   font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
     background-color: #00539F;
 }
@@ -11,20 +11,29 @@ header {
       border: 1px solid black;
       text-align: justify;
       padding: 12px; /* Marge intérieure de 12px */
-      margin-top : 5%;
+      margin-top : 2%;
+  margin-left:10%;
+  margin-right:10%;
+  margin-bottom : 2%;
+  padding-left: 40%;
+  font-size: 2%;
 }
 
 #conteneur { display:flex;
   margin : auto;
 }
 
+
+
 nav {
   width : 20%;
-  margin : auto;}
+  margin : auto;
+font-size: 18px;}
 
 #texte{
   width : 70%;
-  margin : auto;
+  margin-top : 2%;
+  margin-bottom : 2%;
 }
 
 .instagram-media {
