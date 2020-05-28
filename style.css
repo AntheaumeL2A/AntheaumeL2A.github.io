@@ -28,7 +28,8 @@ header {
 nav {
   width : 20%;
   margin : auto;
-font-size: 18px;}
+font-size: 18px;
+padding-bottom: 50%;}
 
 #texte{
   width : 70%;
