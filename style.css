@@ -6,6 +6,26 @@ html {
 }
 
 
+header {
+  height : 20%;
+      border: 1px solid black;
+      text-align: justify;
+      padding: 12px; /* Marge intérieure de 12px */
+      margin : auto;
+}
+
+#conteneur { display:flex;
+}
+
+nav {
+  width : 20%;
+  margin : auto;}
+
+section{
+  width : 70%;
+  margin : auto;
+}
+
 h1 {
   margin: 0;
   padding: 20px 0;    
