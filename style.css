@@ -19,9 +19,6 @@ header {
   font-size: 30px;
 }
 
-h1{
-color:rgb(102, 255, 255);}
-
 #conteneur { display:flex;
   margin : auto;
 }
@@ -50,7 +47,7 @@ padding-bottom: 50%;}
 h1 {
   margin: 0;
   padding: 20px 0;    
-  color: #00539F;
+  color: rgb(107, 246, 255);;
   text-shadow: 3px 3px 1px black;
 }
 
