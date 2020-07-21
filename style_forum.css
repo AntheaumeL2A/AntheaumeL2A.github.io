@@ -41,6 +41,14 @@ padding-bottom: 50%;}
   margin : auto;
 }
 
+#categories_b { display:flex;
+  margin : auto;
+}
+
+#categories_c { display:flex;
+  margin : auto;
+}
+
 #categorie_aa{
   width : 20%;
   height : 20%;
@@ -93,6 +101,37 @@ padding-bottom: 50%;}
   background-image : url("paysagisme.png");
      background-color: #cccccc;
 }
+
+
+#categorie_ca{
+  width : 100px;
+  height : 100px;
+  margin : auto;
+  background-image : url("paysagisme.png");
+     background-color: #cccccc;
+}
+
+#categorie_cb{
+  width : 100px;
+  height : 100px;
+  margin : auto;
+  background-image : url("paysagisme.png");
+     background-color: #cccccc;
+}
+
+
+#categorie_cc{
+  width : 100px;
+  height : 100px;
+  margin : auto;
+  background-image : url("paysagisme.png");
+     background-color: #cccccc;
+}
+
+
+
+
+
 
 
 
