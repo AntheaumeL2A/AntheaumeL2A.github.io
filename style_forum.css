@@ -24,6 +24,10 @@ h1{
   font-size: 22px;
 }
 
+.wrapper{
+margin:0 auto;
+width : 1000px;}
+
 #login {border: 1px solid black;
       text-align: justify;
       padding: 12px; /* Marge intérieure de 12px */
