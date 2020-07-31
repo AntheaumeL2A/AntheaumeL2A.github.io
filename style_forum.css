@@ -6,17 +6,35 @@ html {
 
 
 header {
-  height : 15%;
+  display : flex;
+    height : 15%;
+
+}
+
+h1{
       border: 1px solid black;
       text-align: justify;
       padding: 12px; /* Marge intérieure de 12px */
       margin-top : 2%;
-  margin-left:10%;
-  margin-right:10%;
+  margin-left:5%;
+  margin-right:5%;
   margin-bottom : 2%;
   padding-left: 10%;
   font-size: 22px;
 }
+
+#login {border: 1px solid black;
+      text-align: justify;
+      padding: 12px; /* Marge intérieure de 12px */
+      margin-top : 2%;
+      margin : auto;
+      font-size : 15px;}
+
+#signup {border: 1px solid black;
+      text-align: justify;
+      padding: 12px; /* Marge intérieure de 12px */
+      margin-top : 2%;
+      font-size : 15px;}
 
 #conteneur { display:flex;
   margin : auto;
