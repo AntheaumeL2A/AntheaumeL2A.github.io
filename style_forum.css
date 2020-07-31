@@ -25,7 +25,7 @@ h1{
 }
 
 .wrapper{
-margin:0 auto;
+margin:0 auto auto 100px;
 width : 1000px;}
 
 #login {border: 1px solid black;
