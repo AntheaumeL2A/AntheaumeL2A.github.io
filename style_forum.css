@@ -6,7 +6,7 @@ html {
 
 
 header {
-  height : 20%;
+  height : 15%;
       border: 1px solid black;
       text-align: justify;
       padding: 12px; /* Marge intérieure de 12px */
@@ -15,7 +15,7 @@ header {
   margin-right:10%;
   margin-bottom : 2%;
   padding-left: 10%;
-  font-size: 30px;
+  font-size: 22px;
 }
 
 #conteneur { display:flex;
@@ -25,13 +25,13 @@ header {
 
 
 nav {
-  width : 20%;
+  width : 15%;
   margin : auto;
 font-size: 18px;
 padding-bottom: 50%;}
 
 #categories{
-  width : 70%;
+  width : 85%;
   margin-top : 2%;
   margin-bottom : 2%;
 }
